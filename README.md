@@ -4,7 +4,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Codesik&fontSize=90&animation=twinkling) 
 
 ## Hi there, I'm <a href="https://codesik.github.io" target="_blank">Geonsik Seo.</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  
+<br>
+
+
+
 <h3 align="center">👨‍💻 Working at </h3>
  
 <div align="center">
@@ -12,8 +15,9 @@
 <a href="https://peoplefund.co.kr" target="_blank"><h3>PeopleFund</h3></a>
 Backend Developer in Fintech Engineering Group
 
+  <br>
+  
 </div>
-<br><br>
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
