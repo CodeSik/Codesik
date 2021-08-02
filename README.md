@@ -13,7 +13,7 @@
 <div align="center">
   
 <a href="https://peoplefund.co.kr" target="_blank"><h3>PeopleFund</h3></a>
-Backend Developer in Fintech Engineering Group
+Backend Developer in the Fintech Engineering Group
 
   <br>
   
