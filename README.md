@@ -6,9 +6,14 @@
 ## Hi there, I'm <a href="https://codesik.github.io" target="_blank">Geonsik Seo.</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 
-
-
 <h3 align="center">👨‍💻 Working at </h3>
+<div align="center">
+<a href="https://letsur.ai" target="_blank"><h3>Letsur</h3></a>
+Backend & Devops Engineer
+  <br>
+  
+</div>
+<h3 align="center">👨‍💻 Worked at </h3>
  
 <div align="center">
   
